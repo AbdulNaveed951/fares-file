@@ -1,0 +1,110 @@
+.header
+{
+    background-color:#9999ff;
+
+}
+.vf{
+    color: #fff;
+}
+.vb
+{
+    text-align: center;
+    background-color: #fff;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.q1
+{
+    background-color:#000000;
+    color: #fff;
+}
+.mj
+{
+    background-color: forestgreen;
+    color: #fff;
+    width: 270px;
+}
+.male
+{
+    width: 270px;
+}
+.bg
+{
+    color: red;}
+
+.abc
+{
+    background-color:	#e6e6e6;
+    text-align: center;
+    justify-content: center;
+    ;
+}
+.ax
+{
+    color:#bfbfbf;
+    
+  
+}
+p
+{
+padding-top: 2%;
+}
+.c2
+{
+    color: #000;
+    
+  font-family: "Times New Roman", Times, serif;
+}
+.button
+{
+    margin-top: 2%;
+    font-style: initial;
+    color:#000000;
+    border-color: #000;
+    border-radius: 5%;
+    background-color:	#e6e6e6;
+    cursor: pointer;
+}
+.ab{
+background-color:#001a33;
+}
+.c3
+{
+    color:#fff;
+}
+.a{
+    background-color: #fff;
+   
+}.zx
+{
+    text-align: center;
+    justify-content: center;
+}
+.cv
+{
+    
+    border: black;
+}
+span{
+    margin-top: 2%;
+    display: inline-block;
+    
+}
+.qw
+{
+    color:#8c8c8c;
+    margin-top: 5%;
+}
+.ca{
+     background-color: #fff;
+     text-align: center;
+     color:#bfbfbf;
+
+}
+h1{
+    border-left: 2px solid #bfbfbf;
+    height: 200px;
+    position: absolute;
+    top: 13%;
+
+}
